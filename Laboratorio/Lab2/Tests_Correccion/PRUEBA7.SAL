@@ -1,0 +1,19 @@
+Procesos Listos: 
+PID=1 Archivo=Sosimon.exe:1 Tiene=
+PID=2 Archivo=ares.exe:1 Tiene=
+Procesos Listos: 
+PID=2 Archivo=ares.exe:1 Tiene=
+CPU=0 PID=2 I=A
+...........................
+CPU=1 PID=3 I=_
+CPU=0 PID=2 I=_
+CPU=1 PID=3 I=!
+CPU=0 PID=2 I=!
+CPU=1 PID=3 I=_
+CPU=0 PID=2 I=_
+CPU=1 PID=3 I=C
+CPU=0 PID=2 I=a
+CPU=1 PID=3 I=@
+CPU=0 PID=2 I=@
+Procesos Listos: 
+CPU=1 PID=4 I=@

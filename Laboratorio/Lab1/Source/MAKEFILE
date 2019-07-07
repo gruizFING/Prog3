@@ -1,0 +1,19 @@
+All: AritmeticaBasica.exe
+AritmeticaBasica.exe: dicvar.o dicexpr.o abexp.o lectorExp.o main.o
+	g++ dicvar.o dicexpr.o abexp.o lectorExp.o main.o -o AritmeticaBasica.exe
+dicvar.o: dicvar.h dicvar.cpp
+	g++ -c dicvar.cpp -Wall -Werror -O1
+dicexpr.o: dicexpr.h abexp.h dicexpr.cpp
+	g++ -c dicexpr.cpp -Wall -Werror -O1
+abexp.o: abexp.h dicvar.h dicexpr.h abexp.cpp
+	g++ -c abexp.cpp -Wall -Werror -O1
+lectorExp.o: lectorExp.h abexp.h lectorExp.cpp
+	g++ -c lectorExp.cpp -Wall -Werror -O1
+main.o: lectorExp.h abexp.h main.cpp
+	g++ -c main.cpp -Wall -Werror -O1
+limpiar:
+	rm dicvar.o
+	rm dicexpr.o
+	rm abexp.o
+	rm lectorExp.o
+	rm main.o

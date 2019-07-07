@@ -1,0 +1,150 @@
+i=0
+CPU=0 PID=1 I=!
+CPU=1 PID=2 I=_
+PID=3 Archivo=archivo3:1 Tiene=
+PID=1 Archivo=archivo1:2 Tiene=
+--------
+i=1
+CPU=0 PID=3 I=_
+CPU=1 PID=2 I=A
+PID=1 Archivo=archivo1:2 Tiene=
+--------
+i=2
+CPU=0 PID=3 I=!
+CPU=1 PID=2 I=_
+PID=1 Archivo=archivo1:2 Tiene=
+PID=3 Archivo=archivo3:3 Tiene=
+--------
+i=3
+CPU=0 PID=1 I=_
+CPU=1 PID=2 I=!
+PID=3 Archivo=archivo3:3 Tiene=
+PID=2 Archivo=archivo2:5 Tiene=a
+--------
+i=4
+CPU=0 PID=1 I=_
+CPU=1 PID=3 I=_
+PID=2 Archivo=archivo2:5 Tiene=a
+--------
+i=5
+CPU=0 PID=1 I=_
+CPU=1 PID=3 I=A
+PID=3 Archivo=archivo3:5 Esperando=a Tiene=
+PID=2 Archivo=archivo2:5 Tiene=a
+--------
+i=6
+CPU=0 PID=1 I=A
+CPU=1 PID=2 I=_
+PID=3 Archivo=archivo3:5 Esperando=a Tiene=
+PID=1 Archivo=archivo1:6 Esperando=a Tiene=
+--------
+i=7
+CPU=1 PID=2 I=_
+PID=3 Archivo=archivo3:5 Esperando=a Tiene=
+PID=1 Archivo=archivo1:6 Esperando=a Tiene=
+--------
+i=8
+CPU=1 PID=2 I=_
+PID=3 Archivo=archivo3:5 Esperando=a Tiene=
+PID=1 Archivo=archivo1:6 Esperando=a Tiene=
+--------
+i=9
+CPU=1 PID=2 I=_
+PID=3 Archivo=archivo3:5 Esperando=a Tiene=
+PID=1 Archivo=archivo1:6 Esperando=a Tiene=
+--------
+i=10
+CPU=1 PID=2 I=_
+PID=3 Archivo=archivo3:5 Esperando=a Tiene=
+PID=1 Archivo=archivo1:6 Esperando=a Tiene=
+--------
+i=11
+CPU=1 PID=2 I=_
+PID=3 Archivo=archivo3:5 Esperando=a Tiene=
+PID=1 Archivo=archivo1:6 Esperando=a Tiene=
+--------
+i=12
+CPU=1 PID=2 I=a
+PID=1 Archivo=archivo1:6 Esperando=a Tiene=
+PID=3 Archivo=archivo3:5 Tiene=a
+--------
+i=13
+CPU=0 PID=3 I=_
+CPU=1 PID=2 I=@
+PID=1 Archivo=archivo1:6 Esperando=a Tiene=
+--------
+i=14
+CPU=0 PID=3 I=_
+PID=1 Archivo=archivo1:6 Esperando=a Tiene=
+--------
+i=15
+CPU=0 PID=3 I=!
+CPU=1 PID=3 I=_
+PID=1 Archivo=archivo1:6 Esperando=a Tiene=
+--------
+i=16
+CPU=1 PID=3 I=_
+PID=1 Archivo=archivo1:6 Esperando=a Tiene=
+--------
+i=17
+CPU=1 PID=3 I=!
+PID=1 Archivo=archivo1:6 Esperando=a Tiene=
+PID=3 Archivo=archivo3:11 Tiene=a
+--------
+i=18
+CPU=0 PID=3 I=_
+PID=1 Archivo=archivo1:6 Esperando=a Tiene=
+--------
+i=19
+CPU=0 PID=3 I=_
+PID=1 Archivo=archivo1:6 Esperando=a Tiene=
+--------
+i=20
+CPU=0 PID=3 I=@
+CPU=1 PID=1 I=_
+--------
+i=21
+CPU=1 PID=1 I=A
+PID=1 Archivo=archivo1:8 Esperando=a Tiene=a
+--------
+i=22
+PID=1 Archivo=archivo1:8 Esperando=a Tiene=a
+--------
+i=23
+PID=1 Archivo=archivo1:8 Esperando=a Tiene=a
+--------
+i=24
+PID=1 Archivo=archivo1:8 Esperando=a Tiene=a
+--------
+i=25
+PID=1 Archivo=archivo1:8 Esperando=a Tiene=a
+--------
+i=26
+PID=1 Archivo=archivo1:8 Esperando=a Tiene=a
+--------
+i=27
+PID=1 Archivo=archivo1:8 Esperando=a Tiene=a
+--------
+i=28
+PID=1 Archivo=archivo1:8 Esperando=a Tiene=a
+--------
+i=29
+PID=1 Archivo=archivo1:8 Esperando=a Tiene=a
+--------
+CPU=0 PID=4 I=_
+CPU=0 PID=4 I=!
+CPU=0 PID=4 I=_
+CPU=0 PID=4 I=A
+CPU=0 PID=4 I=_
+CPU=0 PID=4 I=_
+CPU=0 PID=4 I=!
+CPU=0 PID=4 I=_
+CPU=0 PID=4 I=_
+CPU=0 PID=4 I=!
+CPU=0 PID=4 I=_
+CPU=0 PID=4 I=_
+CPU=0 PID=4 I=@
+Programas:
+archivo1
+archivo2
+archivo3

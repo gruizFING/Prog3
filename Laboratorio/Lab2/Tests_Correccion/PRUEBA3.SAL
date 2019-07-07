@@ -1,0 +1,93 @@
+Programas:
+i=0
+CPU=0 PID=1 I=A
+CPU=1 PID=2 I=_
+--------
+i=1
+CPU=0 PID=1 I=B
+CPU=1 PID=2 I=_
+--------
+i=2
+CPU=0 PID=1 I=C
+CPU=1 PID=2 I=_
+--------
+i=3
+CPU=0 PID=1 I=_
+CPU=1 PID=2 I=D
+--------
+i=4
+CPU=0 PID=1 I=_
+CPU=1 PID=2 I=_
+--------
+i=5
+CPU=0 PID=1 I=_
+CPU=1 PID=2 I=_
+--------
+i=6
+CPU=0 PID=1 I=D
+CPU=1 PID=2 I=_
+PID=1 Archivo=1:8 Esperando=d Tiene=a,b,c
+--------
+i=7
+CPU=1 PID=2 I=_
+PID=1 Archivo=1:8 Esperando=d Tiene=a,b,c
+--------
+i=8
+CPU=1 PID=2 I=_
+PID=1 Archivo=1:8 Esperando=d Tiene=a,b,c
+--------
+i=9
+CPU=1 PID=2 I=_
+PID=1 Archivo=1:8 Esperando=d Tiene=a,b,c
+--------
+i=10
+CPU=1 PID=2 I=d
+PID=1 Archivo=1:8 Tiene=a,b,c,d
+--------
+i=11
+CPU=0 PID=1 I=_
+CPU=1 PID=2 I=@
+--------
+i=12
+CPU=0 PID=1 I=_
+--------
+i=13
+CPU=0 PID=1 I=_
+--------
+i=14
+CPU=0 PID=1 I=_
+--------
+i=15
+CPU=0 PID=1 I=b
+--------
+i=16
+CPU=0 PID=1 I=c
+--------
+i=17
+CPU=0 PID=1 I=d
+--------
+i=18
+CPU=0 PID=1 I=@
+--------
+i=19
+--------
+i=20
+--------
+i=21
+--------
+i=22
+--------
+i=23
+--------
+i=24
+--------
+i=25
+--------
+i=26
+--------
+i=27
+--------
+i=28
+--------
+i=29
+--------

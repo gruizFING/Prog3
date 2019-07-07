@@ -1,0 +1,76 @@
+all: Test4.exe Test4_1.exe Test5.exe Test6.exe Test10.exe Prueba1.exe Prueba2.exe Prueba1.1.exe Prueba2.1.exe  PruebaTodos.exe PruebaTodosV2.exe
+ColaSimple.o: ColaSimple.h ColaSimple.cpp
+	g++ -c -Wall -Werror -O1 ColaSimple.cpp
+ListaSimpleConPrioridad.o : ListaSimpleConPrioridad.h ListaSimpleConPrioridad.cpp
+	g++ -c -Wall -Werror -O1 ListaSimpleConPrioridad.cpp
+RedInfelicidad.o : RedInfelicidad.h ListaSimpleConPrioridad.h RedInfelicidad.cpp
+	g++ -c -Wall -Werror -O1 RedInfelicidad.cpp
+CarinioEstrategia.o : CarinioEstrategia.h ListaSimpleConPrioridad.h RedInfelicidad.h ColaSimple.h CarinioEstrategia.cpp
+	g++ -c -Wall -Werror -O1 CarinioEstrategia.cpp
+ListaCariniosos.o : ListaCariniosos.h ListaSimpleConPrioridad.h ListaCariniosos.cpp
+	g++ -c -Wall -Werror -O1 ListaCariniosos.cpp
+util.o : util.h CarinioEstrategia.h util.cpp
+	g++ -c -Wall -Werror -O1 util.cpp
+Test4.o : RedInfelicidad.h CarinioEstrategia.h util.h Test4.cpp
+	g++ -c -Wall -Werror -O1 Test4.cpp
+Test4_1.o : RedInfelicidad.h CarinioEstrategia.h util.h Test4_1.cpp
+	g++ -c -Wall -Werror -O1 Test4_1.cpp
+Test5.o : RedInfelicidad.h CarinioEstrategia.h util.h Test5.cpp
+	g++ -c -Wall -Werror -O1 Test5.cpp
+Test6.o : RedInfelicidad.h CarinioEstrategia.h ListaCariniosos.h util.h Test6.cpp
+	g++ -c -Wall -Werror -O1 Test6.cpp
+Test10.o : RedInfelicidad.h CarinioEstrategia.h ListaCariniosos.h util.h Test10.cpp
+	g++ -c -Wall -Werror -O1 Test10.cpp
+Prueba1.o : RedInfelicidad.h CarinioEstrategia.h ListaCariniosos.h util.h Prueba1.cpp
+	g++ -c -Wall -Werror -O1 Prueba1.cpp
+Prueba1.1.o : RedInfelicidad.h CarinioEstrategia.h ListaCariniosos.h util.h Prueba1.1.cpp
+	g++ -c -Wall -Werror -O1 Prueba1.1.cpp
+Prueba2.o : RedInfelicidad.h CarinioEstrategia.h ListaCariniosos.h util.h Prueba2.cpp
+	g++ -c -Wall -Werror -O1 Prueba2.cpp
+Prueba2.1.o : RedInfelicidad.h CarinioEstrategia.h ListaCariniosos.h util.h Prueba2.1.cpp
+	g++ -c -Wall -Werror -O1 Prueba2.1.cpp
+PruebaTodos.o : RedInfelicidad.h CarinioEstrategia.h ListaCariniosos.h util.h PruebaTodos.cpp
+	g++ -c -Wall -Werror -O1 PruebaTodos.cpp
+PruebaTodosV2.o : RedInfelicidad.h CarinioEstrategia.h ListaCariniosos.h util.h PruebaTodosV2.cpp
+	g++ -c -Wall -Werror -O1 PruebaTodosV2.cpp
+Test4.exe : ColaSimple.o ListaSimpleConPrioridad.o RedInfelicidad.o CarinioEstrategia.o ListaCariniosos.o util.o Test4.o
+	g++ ColaSimple.o ListaSimpleConPrioridad.o RedInfelicidad.o CarinioEstrategia.o ListaCariniosos.o util.o Test4.o -o Test4.exe
+Test4_1.exe : ColaSimple.o ListaSimpleConPrioridad.o RedInfelicidad.o CarinioEstrategia.o ListaCariniosos.o util.o Test4_1.o
+	g++ ColaSimple.o ListaSimpleConPrioridad.o RedInfelicidad.o CarinioEstrategia.o ListaCariniosos.o util.o Test4_1.o -o Test4_1.exe
+Test5.exe : ColaSimple.o ListaSimpleConPrioridad.o RedInfelicidad.o CarinioEstrategia.o ListaCariniosos.o util.o Test5.o
+	g++ ColaSimple.o ListaSimpleConPrioridad.o RedInfelicidad.o CarinioEstrategia.o ListaCariniosos.o util.o Test5.o -o Test5.exe
+Test6.exe : ColaSimple.o ListaSimpleConPrioridad.o RedInfelicidad.o CarinioEstrategia.o ListaCariniosos.o util.o Test6.o
+	g++ ColaSimple.o ListaSimpleConPrioridad.o RedInfelicidad.o CarinioEstrategia.o ListaCariniosos.o util.o Test6.o -o Test6.exe
+Test10.exe : ColaSimple.o ListaSimpleConPrioridad.o RedInfelicidad.o CarinioEstrategia.o ListaCariniosos.o util.o Test10.o
+	g++ ColaSimple.o ListaSimpleConPrioridad.o RedInfelicidad.o CarinioEstrategia.o ListaCariniosos.o util.o Test10.o -o Test10.exe
+Prueba1.exe : ColaSimple.o ListaSimpleConPrioridad.o RedInfelicidad.o CarinioEstrategia.o ListaCariniosos.o util.o Prueba1.o
+	g++ ColaSimple.o ListaSimpleConPrioridad.o RedInfelicidad.o CarinioEstrategia.o ListaCariniosos.o util.o Prueba1.o -o Prueba1.exe
+Prueba1.1.exe : ColaSimple.o ListaSimpleConPrioridad.o RedInfelicidad.o CarinioEstrategia.o ListaCariniosos.o util.o Prueba1.1.o
+	g++ ColaSimple.o ListaSimpleConPrioridad.o RedInfelicidad.o CarinioEstrategia.o ListaCariniosos.o util.o Prueba1.1.o -o Prueba1.1.exe
+Prueba2.exe : ColaSimple.o ListaSimpleConPrioridad.o RedInfelicidad.o CarinioEstrategia.o ListaCariniosos.o util.o Prueba2.o
+	g++ ColaSimple.o ListaSimpleConPrioridad.o RedInfelicidad.o CarinioEstrategia.o ListaCariniosos.o util.o Prueba2.o -o Prueba2.exe
+Prueba2.1.exe : ColaSimple.o ListaSimpleConPrioridad.o RedInfelicidad.o CarinioEstrategia.o ListaCariniosos.o util.o Prueba2.1.o
+	g++ ColaSimple.o ListaSimpleConPrioridad.o RedInfelicidad.o CarinioEstrategia.o ListaCariniosos.o util.o Prueba2.1.o -o Prueba2.1.exe
+PruebaTodos.exe : ColaSimple.o ListaSimpleConPrioridad.o RedInfelicidad.o CarinioEstrategia.o ListaCariniosos.o util.o PruebaTodos.o
+	g++ ColaSimple.o ListaSimpleConPrioridad.o RedInfelicidad.o CarinioEstrategia.o ListaCariniosos.o util.o PruebaTodos.o -o PruebaTodos.exe
+PruebaTodosV2.exe : ColaSimple.o ListaSimpleConPrioridad.o RedInfelicidad.o CarinioEstrategia.o ListaCariniosos.o util.o PruebaTodosV2.o
+	g++ ColaSimple.o ListaSimpleConPrioridad.o RedInfelicidad.o CarinioEstrategia.o ListaCariniosos.o util.o PruebaTodosV2.o -o PruebaTodosV2.exe
+
+limpiar:
+	rm ColaSimple.o
+	rm ListaSimpleConPrioridad.o
+	rm RedInfelicidad.o
+	rm CarinioEstrategia.o
+	rm ListaCariniosos.o
+	rm util.o
+	rm Test4.o
+	rm Test4_1.o
+	rm Test5.o
+	rm Test6.o
+	rm Test10.o
+	rm Prueba1.o
+	rm Prueba1.1.o
+	rm Prueba2.o
+	rm Prueba2.1.o
+	rm PruebaTodos.o
+	rm PruebaTodosV2.o

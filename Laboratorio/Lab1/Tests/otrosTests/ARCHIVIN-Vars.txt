@@ -1,0 +1,10 @@
+<def var="X">1.000000</def>
+<def var="Y">2.000000</def>
+<def var="Z">3.000000</def>
+<def var="T">4.000000</def>
+<def var="W">5.000000</def>
+<def var="A">9.000000</def>
+<def var="I">5.000000</def>
+<def var="R">56.220000</def>
+<def var="Joven">33.321111</def>
+<def var="GeorgeClooney">658.999999</def>

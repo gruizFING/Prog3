@@ -1,0 +1,47 @@
+Bienvenido a el mini-sistema:
+> Comando no reconocido.
+> Comando no reconocido.
+> ERROR: Nombre de variable vacio.
+> ERROR: Nombre de variable vacio.
+> ERROR: Nombre de variable vacio.
+> OK. var1 agregada.
+> OK. var2 agregada.
+> OK. var3 agregada.
+> OK. var4 agregada.
+> OK. var5 agregada.
+> OK. var6 agregada.
+> OK. var7 agregada.
+> Comando no reconocido.
+> OK. 1000.00
+> OK. var2 agregada.
+> OK. 333.00
+> Comando no reconocido.
+> ERROR: Nombre de variable vacio.
+> ERROR: Nombre de variable vacio.
+> ERROR: Nombre de variable vacio.
+> OK. var8 agregada.
+> OK. var9 agregada.
+> OK. var10 agregada.
+> ERROR: Se alcanzo la maxima cantidad de variables.
+> OK. 98.00
+> OK. var9 agregada.
+> OK. var8 agregada.
+> OK. 12.01
+> Comando no reconocido.
+> OK. 789.00
+> OK. 333.00
+> OK. 88.00
+> OK. 78.00
+> Comando no reconocido.
+> ERROR: Nombre de variable vacio.
+> ERROR: Nombre de variable vacio.
+> ERROR: Nombre de variable vacio.
+> Comando no reconocido.
+> OK. 0.58
+> OK. 333.00
+> OK. 9.00
+> OK. 12.01
+> OK. 99.00
+> OK. 78.00
+> Comando no reconocido.
+> 

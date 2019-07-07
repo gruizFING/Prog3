@@ -1,0 +1,6 @@
+VAR  a=12
+VAR  b= 6
+VAR  aa=   0
+EVAL 5/a-b*2
+EVAL 5/(a-b*2+aa)
+SALIR

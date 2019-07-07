@@ -1,0 +1,9 @@
+<def exp="FIBO2"><expr tipo="SUMA"><expr tipo="VAR">X</expr><expr tipo="VAR">Y</expr></expr></def>
+<def exp="FIBO3"><expr tipo="SUMA"><expr tipo="VAR">FIBO2</expr><expr tipo="VAR">Y</expr></expr></def>
+<def exp="FIBO4"><expr tipo="SUMA"><expr tipo="VAR">FIBO2</expr><expr tipo="VAR">FIBO3</expr></expr></def>
+<def exp="FIBO5"><expr tipo="SUMA"><expr tipo="VAR">FIBO4</expr><expr tipo="VAR">FIBO3</expr></expr></def>
+<def exp="FIBO6"><expr tipo="SUMA"><expr tipo="VAR">FIBO5</expr><expr tipo="VAR">FIBO4</expr></expr></def>
+<def exp="FIBO7"><expr tipo="SUMA"><expr tipo="VAR">FIBO6</expr><expr tipo="VAR">FIBO5</expr></expr></def>
+<def exp="FIBO8"><expr tipo="SUMA"><expr tipo="VAR">FIBO7</expr><expr tipo="VAR">FIBO6</expr></expr></def>
+<def exp="FIBO9"><expr tipo="SUMA"><expr tipo="VAR">FIBO8</expr><expr tipo="VAR">FIBO7</expr></expr></def>
+<def exp="FIBO10"><expr tipo="SUMA"><expr tipo="VAR">FIBO9</expr><expr tipo="VAR">FIBO8</expr></expr></def>

@@ -1,0 +1,1 @@
+<def exp="expr1"><expr tipo="DIV"><expr tipo="VAR">variable1</expr><expr tipo="VAR">variable2</expr></expr></def>

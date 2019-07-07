@@ -1,0 +1,7 @@
+<def var="var1">333.000000</def>
+<def var="var2">333.000000</def>
+<def var="var3">888.000000</def>
+<def var="var4">888.000000</def>
+<def var="var5">99.000000</def>
+<def var="var6">88.000000</def>
+<def var="var7">78.000000</def>

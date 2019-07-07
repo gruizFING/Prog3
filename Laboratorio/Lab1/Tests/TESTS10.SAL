@@ -1,0 +1,89 @@
+Bienvenido a el mini-sistema:
+> OK. Expr1 agregada.
+> ERROR: Falta definir variable o expresion.
+> OK. Expr2 agregada.
+> ERROR: Falta definir variable o expresion.
+> ERROR: Falta definir variable o expresion.
+> OK. Y agregada.
+> OK. 1.00
+> OK. 0.00
+> ERROR: Division por cero.
+> OK. Expr1 agregada.
+> OK. 0.12
+> OK. Expr1 agregada.
+> OK. 0.12
+> ERROR: Falta definir variable o expresion.
+> ERROR: Division por cero.
+> ERROR: Falta definir variable o expresion.
+> OK. Y agregada.
+> ERROR: La expresion no es valida.
+> OK. 2.00
+> ERROR: Falta definir variable o expresion.
+> OK. X agregada.
+> OK. 5.00
+> ERROR: Division por cero.
+> OK. 0.00
+> OK. AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA agregada.
+> OK. 1.00
+> OK. BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB agregada.
+> OK. 2.00
+> OK. X agregada.
+> OK. -2.00
+> OK. -2.00
+> OK. 2.00
+> OK. V3 agregada.
+> OK. V3 agregada.
+> OK. V3 agregada.
+> OK. V3 agregada.
+> OK. V3 agregada.
+> OK. V3 agregada.
+> OK. V3 agregada.
+> OK. V3 agregada.
+> OK. V3 agregada.
+> OK. V3 agregada.
+> OK. V3 agregada.
+> OK. V3 agregada.
+> OK. V4 agregada.
+> OK. V5 agregada.
+> OK. V6 agregada.
+> OK. V7 agregada.
+> OK. V8 agregada.
+> OK. V9 agregada.
+> ERROR: Se alcanzo la maxima cantidad de variables.
+> OK. 3.11
+> OK. 4.00
+> OK. 5.00
+> OK. 6.00
+> OK. 7.00
+> OK. 8.00
+> OK. 9.00
+> ERROR: Falta definir variable o expresion.
+> OK. E3 agregada.
+> OK. E3 agregada.
+> OK. E3 agregada.
+> OK. E3 agregada.
+> OK. E3 agregada.
+> OK. E3 agregada.
+> OK. E3 agregada.
+> OK. E3 agregada.
+> OK. E3 agregada.
+> OK. E3 agregada.
+> OK. E3 agregada.
+> OK. E3 agregada.
+> OK. E4 agregada.
+> OK. E5 agregada.
+> OK. E6 agregada.
+> OK. E7 agregada.
+> OK. E8 agregada.
+> OK. E9 agregada.
+> ERROR: Se alcanzo la maxima cantidad de expresiones.
+> OK. 3.11
+> OK. 4.00
+> OK. 5.00
+> OK. 6.00
+> OK. 7.00
+> OK. 8.00
+> OK. 9.00
+> ERROR: Falta definir variable o expresion.
+> Comando no reconocido.
+> 

@@ -1,0 +1,1 @@
+<def exp="expr1"><expr tipo="MULT"><expr tipo="SUMA"><expr tipo="VAR">x</expr><expr tipo="VAR">y</expr></expr><expr tipo="VAR">z</expr></expr></def>

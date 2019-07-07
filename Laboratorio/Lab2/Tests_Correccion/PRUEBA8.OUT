@@ -1,0 +1,36 @@
+Procesos Listos: 
+PID=1 Archivo=1:1 Tiene=
+PID=2 Archivo=2:1 Tiene=
+PID=3 Archivo=3:1 Tiene=
+PID=4 Archivo=4:1 Tiene=
+PID=5 Archivo=5:1 Tiene=
+PID=6 Archivo=6:1 Tiene=
+PID=7 Archivo=7:1 Tiene=
+CPU=0 PID=2 I=_
+CPU=0 PID=2 I=!
+CPU=1 PID=3 I=_
+CPU=1 PID=3 I=!
+CPU=2 PID=4 I=_
+CPU=2 PID=4 I=!
+CPU=3 PID=5 I=_
+CPU=3 PID=5 I=!
+CPU=4 PID=6 I=_
+CPU=4 PID=6 I=!
+CPU=5 PID=7 I=_
+CPU=5 PID=7 I=!
+-------------------------
+CPU=0 PID=8 I=_
+CPU=0 PID=8 I=!
+CPU=0 PID=9 I=_
+CPU=1 PID=10 I=_
+CPU=1 PID=10 I=!
+CPU=1 PID=11 I=_
+CPU=2 PID=12 I=_
+CPU=2 PID=12 I=!
+CPU=2 PID=13 I=_
+CPU=3 PID=14 I=_
+CPU=3 PID=14 I=!
+CPU=3 PID=8 I=A
+CPU=4 PID=10 I=A
+CPU=4 PID=12 I=A
+CPU=4 PID=14 I=A

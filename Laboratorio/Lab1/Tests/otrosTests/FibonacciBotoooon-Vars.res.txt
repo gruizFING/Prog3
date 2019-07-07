@@ -1,0 +1,10 @@
+<def var="X">1.000000</def>
+<def var="Y">1.000000</def>
+<def var="Z">23.000000</def>
+<def var="Q">2234234.234500</def>
+<def var="T">234654.654640</def>
+<def var="S">4587688.254448</def>
+<def var="W">5477789965.210010</def>
+<def var="SD">234345.000000</def>
+<def var="RTY">3245345.345436</def>
+<def var="JHYU">345463.457000</def>

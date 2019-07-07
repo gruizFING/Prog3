@@ -1,0 +1,41 @@
+all: main1.exe main2.exe main3.exe prueba0.exe prueba3.exe prueba10.exe test01.exe
+so.o: so.h so.cpp
+	g++ -c -Wall -Werror -O1 so.cpp
+main1.o: so.h main1.cpp
+	g++ -c -Wall -Werror -O1 main1.cpp
+main2.o: so.h main2.cpp
+	g++ -c -Wall -Werror -O1 main2.cpp
+main3.o: so.h main3.cpp
+	g++ -c -Wall -Werror -O1 main3.cpp
+test01.o: so.h test01.cpp
+	g++ -c -Wall -Werror -O1 test01.cpp
+prueba0.o: so.h prueba0.cpp
+	g++ -c -Wall -Werror -O1 prueba0.cpp
+prueba3.o: so.h prueba3.cpp
+	g++ -c -Wall -Werror -O1 prueba3.cpp
+prueba10.o: so.h prueba10.cpp
+	g++ -c -Wall -Werror -O1 prueba10.cpp
+main1.exe: so.o main1.o
+	g++ so.o main1.o -o main1.exe
+main2.exe: so.o main2.o
+	g++ so.o main2.o -o main2.exe
+main3.exe: so.o main3.o
+	g++ so.o main3.o -o main3.exe
+prueba0.exe: so.o prueba0.o
+	g++ so.o prueba0.o -o prueba0.exe
+prueba3.exe: so.o prueba3.o
+	g++ so.o prueba3.o -o prueba3.exe
+prueba10.exe: so.o prueba10.o
+	g++ so.o prueba10.o -o prueba10.exe
+test01.exe: so.o test01.o
+	g++ so.o test01.o -o test01.exe
+
+limpiar:
+	rm so.o
+	rm main1.o
+	rm main2.o
+	rm main3.o
+	rm prueba0.o
+	rm prueba3.o
+	rm prueba10.o
+	rm test01.o

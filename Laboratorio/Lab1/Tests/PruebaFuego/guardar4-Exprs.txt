@@ -1,0 +1,10 @@
+<def exp="expr1"><expr tipo="DIV"><expr tipo="VAR">variable1</expr><expr tipo="VAR">variable2</expr></expr></def>
+<def exp="expr2"><expr tipo="VAL">900.000000</expr></def>
+<def exp="expr3"><expr tipo="VAL">90000.000000</expr></def>
+<def exp="expr4"><expr tipo="DIV"><expr tipo="DIV"><expr tipo="DIV"><expr tipo="DIV"><expr tipo="DIV"><expr tipo="DIV"><expr tipo="DIV"><expr tipo="MULT"><expr tipo="VAR">variable1</expr><expr tipo="MULT"><expr tipo="VAR">variable1</expr><expr tipo="MULT"><expr tipo="VAR">variable1</expr><expr tipo="MULT"><expr tipo="VAR">variable2</expr><expr tipo="MULT"><expr tipo="VAR">variable2</expr><expr tipo="VAR">variable3</expr></expr></expr></expr></expr></expr><expr tipo="VAR">variable6</expr></expr><expr tipo="VAR">variable1</expr></expr><expr tipo="VAR">variable1</expr></expr><expr tipo="VAR">variable1</expr></expr><expr tipo="VAR">variable1</expr></expr><expr tipo="VAR">variable1</expr></expr><expr tipo="VAR">variable1</expr></expr></def>
+<def exp="expr5"><expr tipo="VAR">variable10</expr></def>
+<def exp="expr6"><expr tipo="DIV"><expr tipo="SUMA"><expr tipo="VAR">variable10</expr><expr tipo="VAR">variable9</expr></expr><expr tipo="VAR">variable8</expr></expr></def>
+<def exp="expr7"><expr tipo="DIV"><expr tipo="DIV"><expr tipo="MULT"><expr tipo="MULT"><expr tipo="MULT"><expr tipo="VAR">variable1</expr><expr tipo="VAR">variable2</expr></expr><expr tipo="VAR">variable3</expr></expr><expr tipo="VAR">variable4</expr></expr><expr tipo="VAR">variable5</expr></expr><expr tipo="VAR">variable10</expr></expr></def>
+<def exp="expr8"><expr tipo="DIV"><expr tipo="DIV"><expr tipo="DIV"><expr tipo="DIV"><expr tipo="DIV"><expr tipo="VAR">variable1</expr><expr tipo="VAR">variable2</expr></expr><expr tipo="VAR">variable3</expr></expr><expr tipo="VAR">variable4</expr></expr><expr tipo="VAR">variable5</expr></expr><expr tipo="VAR">variable6</expr></expr></def>
+<def exp="expr9"><expr tipo="VAR">variable1</expr></def>
+<def exp="expr10"><expr tipo="VAR">variable8</expr></def>

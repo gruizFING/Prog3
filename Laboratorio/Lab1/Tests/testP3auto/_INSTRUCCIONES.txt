@@ -1,0 +1,3 @@
+0 - extraer
+1 - copiar el ejecutable de la tarea a esta carpeta y renombrarlo como "lab1.exe"
+2 - ejecutar el archivo "correr pruebas.bat"

@@ -1,0 +1,672 @@
+7=ejecutar_SO(toolong.exe)
+8=ejecutar_SO(takeall.exe)
+i=0
+CPU=0 PID=1 I=_
+PID=2 Archivo=045:1 Tiene=
+PID=3 Archivo=030:1 Tiene=
+PID=4 Archivo=090:1 Tiene=
+PID=5 Archivo=120:1 Tiene=
+PID=6 Archivo=tooshortA.exe:1 Tiene=
+PID=7 Archivo=toolong.exe:1 Tiene=
+PID=8 Archivo=takeall.exe:1 Tiene=
+--------
+i=1
+CPU=0 PID=1 I=@
+PID=2 Archivo=045:1 Tiene=
+PID=3 Archivo=030:1 Tiene=
+PID=4 Archivo=090:1 Tiene=
+PID=5 Archivo=120:1 Tiene=
+PID=6 Archivo=tooshortA.exe:1 Tiene=
+PID=7 Archivo=toolong.exe:1 Tiene=
+PID=8 Archivo=takeall.exe:1 Tiene=
+--------
+i=2
+CPU=0 PID=2 I=!
+PID=3 Archivo=030:1 Tiene=
+PID=4 Archivo=090:1 Tiene=
+PID=5 Archivo=120:1 Tiene=
+PID=6 Archivo=tooshortA.exe:1 Tiene=
+PID=7 Archivo=toolong.exe:1 Tiene=
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+--------
+i=3
+CPU=0 PID=3 I=_
+PID=4 Archivo=090:1 Tiene=
+PID=5 Archivo=120:1 Tiene=
+PID=6 Archivo=tooshortA.exe:1 Tiene=
+PID=7 Archivo=toolong.exe:1 Tiene=
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+--------
+i=4
+CPU=0 PID=3 I=@
+PID=4 Archivo=090:1 Tiene=
+PID=5 Archivo=120:1 Tiene=
+PID=6 Archivo=tooshortA.exe:1 Tiene=
+PID=7 Archivo=toolong.exe:1 Tiene=
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+--------
+i=5
+CPU=0 PID=4 I=!
+PID=5 Archivo=120:1 Tiene=
+PID=6 Archivo=tooshortA.exe:1 Tiene=
+PID=7 Archivo=toolong.exe:1 Tiene=
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+--------
+i=6
+CPU=0 PID=5 I=_
+PID=6 Archivo=tooshortA.exe:1 Tiene=
+PID=7 Archivo=toolong.exe:1 Tiene=
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+--------
+i=7
+CPU=0 PID=5 I=@
+PID=6 Archivo=tooshortA.exe:1 Tiene=
+PID=7 Archivo=toolong.exe:1 Tiene=
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+--------
+i=8
+CPU=0 PID=6 I=A
+PID=7 Archivo=toolong.exe:1 Tiene=
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+--------
+i=9
+CPU=0 PID=6 I=@
+PID=7 Archivo=toolong.exe:1 Tiene=
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+--------
+i=10
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+--------
+i=11
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+--------
+i=12
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+--------
+i=13
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+--------
+i=14
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+--------
+i=15
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+--------
+i=16
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+--------
+i=17
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+--------
+i=18
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+--------
+i=19
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+--------
+i=20
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+--------
+i=21
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+--------
+i=22
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+--------
+i=23
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+--------
+i=24
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+--------
+i=25
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+--------
+i=26
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+--------
+i=27
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+--------
+i=28
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+--------
+i=29
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+--------
+i=30
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+--------
+i=31
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+--------
+i=32
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+--------
+i=33
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+--------
+i=34
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+--------
+i=35
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+--------
+i=36
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+--------
+i=37
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+--------
+i=38
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+--------
+i=39
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+--------
+i=40
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+--------
+i=41
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+--------
+i=42
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+--------
+i=43
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+--------
+i=44
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+--------
+i=45
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+--------
+i=46
+CPU=0 PID=7 I=!
+PID=8 Archivo=takeall.exe:1 Tiene=
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+PID=7 Archivo=toolong.exe:38 Tiene=
+--------
+i=47
+CPU=0 PID=8 I=A
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+PID=7 Archivo=toolong.exe:38 Tiene=
+--------
+i=48
+CPU=0 PID=8 I=B
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+PID=7 Archivo=toolong.exe:38 Tiene=
+--------
+i=49
+CPU=0 PID=8 I=C
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+PID=7 Archivo=toolong.exe:38 Tiene=
+--------
+i=50
+CPU=0 PID=8 I=D
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+PID=7 Archivo=toolong.exe:38 Tiene=
+--------
+i=51
+CPU=0 PID=8 I=E
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+PID=7 Archivo=toolong.exe:38 Tiene=
+--------
+i=52
+CPU=0 PID=8 I=F
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+PID=7 Archivo=toolong.exe:38 Tiene=
+--------
+i=53
+CPU=0 PID=8 I=G
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+PID=7 Archivo=toolong.exe:38 Tiene=
+--------
+i=54
+CPU=0 PID=8 I=H
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+PID=7 Archivo=toolong.exe:38 Tiene=
+--------
+i=55
+CPU=0 PID=8 I=I
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+PID=7 Archivo=toolong.exe:38 Tiene=
+--------
+i=56
+CPU=0 PID=8 I=J
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+PID=7 Archivo=toolong.exe:38 Tiene=
+--------
+i=57
+CPU=0 PID=8 I=K
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+PID=7 Archivo=toolong.exe:38 Tiene=
+--------
+i=58
+CPU=0 PID=8 I=L
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+PID=7 Archivo=toolong.exe:38 Tiene=
+--------
+i=59
+CPU=0 PID=8 I=M
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+PID=7 Archivo=toolong.exe:38 Tiene=
+--------
+i=60
+CPU=0 PID=8 I=N
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+PID=7 Archivo=toolong.exe:38 Tiene=
+--------
+i=61
+CPU=0 PID=8 I=O
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+PID=7 Archivo=toolong.exe:38 Tiene=
+--------
+i=62
+CPU=0 PID=8 I=P
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+PID=7 Archivo=toolong.exe:38 Tiene=
+--------
+i=63
+CPU=0 PID=8 I=Q
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+PID=7 Archivo=toolong.exe:38 Tiene=
+--------
+i=64
+CPU=0 PID=8 I=R
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+PID=7 Archivo=toolong.exe:38 Tiene=
+--------
+i=65
+CPU=0 PID=8 I=S
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+PID=7 Archivo=toolong.exe:38 Tiene=
+--------
+i=66
+CPU=0 PID=8 I=T
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+PID=7 Archivo=toolong.exe:38 Tiene=
+--------
+i=67
+CPU=0 PID=8 I=U
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+PID=7 Archivo=toolong.exe:38 Tiene=
+--------
+i=68
+CPU=0 PID=8 I=V
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+PID=7 Archivo=toolong.exe:38 Tiene=
+--------
+i=69
+CPU=0 PID=8 I=W
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+PID=7 Archivo=toolong.exe:38 Tiene=
+--------
+i=70
+CPU=0 PID=8 I=X
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+PID=7 Archivo=toolong.exe:38 Tiene=
+--------
+i=71
+CPU=0 PID=8 I=Y
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+PID=7 Archivo=toolong.exe:38 Tiene=
+--------
+i=72
+CPU=0 PID=8 I=Z
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+PID=7 Archivo=toolong.exe:38 Tiene=
+--------
+i=73
+CPU=0 PID=8 I=Z
+PID=8 Archivo=takeall.exe:28 Esperando=z Tiene=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z
+PID=2 Archivo=045:2 Tiene=
+PID=4 Archivo=090:2 Tiene=
+PID=7 Archivo=toolong.exe:38 Tiene=
+--------
+i=74
+CPU=0 PID=2 I=@
+PID=8 Archivo=takeall.exe:28 Esperando=z Tiene=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z
+PID=4 Archivo=090:2 Tiene=
+PID=7 Archivo=toolong.exe:38 Tiene=
+--------
+i=75
+CPU=0 PID=4 I=@
+PID=8 Archivo=takeall.exe:28 Esperando=z Tiene=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z
+PID=7 Archivo=toolong.exe:38 Tiene=
+--------
+i=76
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:28 Esperando=z Tiene=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z
+--------
+i=77
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:28 Esperando=z Tiene=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z
+--------
+i=78
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:28 Esperando=z Tiene=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z
+--------
+i=79
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:28 Esperando=z Tiene=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z
+--------
+i=80
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:28 Esperando=z Tiene=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z
+--------
+i=81
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:28 Esperando=z Tiene=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z
+--------
+i=82
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:28 Esperando=z Tiene=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z
+--------
+i=83
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:28 Esperando=z Tiene=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z
+--------
+i=84
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:28 Esperando=z Tiene=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z
+--------
+i=85
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:28 Esperando=z Tiene=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z
+--------
+i=86
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:28 Esperando=z Tiene=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z
+--------
+i=87
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:28 Esperando=z Tiene=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z
+--------
+i=88
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:28 Esperando=z Tiene=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z
+--------
+i=89
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:28 Esperando=z Tiene=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z
+--------
+i=90
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:28 Esperando=z Tiene=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z
+--------
+i=91
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:28 Esperando=z Tiene=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z
+--------
+i=92
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:28 Esperando=z Tiene=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z
+--------
+i=93
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:28 Esperando=z Tiene=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z
+--------
+i=94
+CPU=0 PID=7 I=_
+PID=8 Archivo=takeall.exe:28 Esperando=z Tiene=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z
+--------
+i=95
+CPU=0 PID=7 I=@
+PID=8 Archivo=takeall.exe:28 Esperando=z Tiene=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z
+--------
+i=96
+PID=8 Archivo=takeall.exe:28 Esperando=z Tiene=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z
+--------
+i=97
+PID=8 Archivo=takeall.exe:28 Esperando=z Tiene=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z
+--------
+i=98
+PID=8 Archivo=takeall.exe:28 Esperando=z Tiene=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z
+--------
+i=99
+PID=8 Archivo=takeall.exe:28 Esperando=z Tiene=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z
+--------
+PID=8 Archivo=takeall.exe:28 Esperando=z Tiene=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z
+CPU=0 PID=9 I=A
+CPU=0 PID=10 I=A
+CPU=0 PID=11 I=A
+CPU=0 PID=12 I=A
+CPU=0 PID=13 I=B
+CPU=0 PID=14 I=B
+CPU=0 PID=15 I=C
+CPU=0 PID=16 I=C
+PID=8 Archivo=takeall.exe:28 Esperando=z Tiene=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z
+PID=9 Archivo=tooshortA.exe:2 Esperando=a Tiene=
+PID=10 Archivo=tooshortA.exe:2 Esperando=a Tiene=
+PID=11 Archivo=tooshortA.exe:2 Esperando=a Tiene=
+PID=12 Archivo=tooshortA.exe:2 Esperando=a Tiene=
+PID=13 Archivo=tooshortB.exe:2 Esperando=b Tiene=
+PID=14 Archivo=tooshortB.exe:2 Esperando=b Tiene=
+PID=15 Archivo=tooshortC.exe:2 Esperando=c Tiene=
+PID=16 Archivo=tooshortC.exe:2 Esperando=c Tiene=
+PID=9 Archivo=tooshortA.exe:2 Tiene=a
+PID=13 Archivo=tooshortB.exe:2 Tiene=b
+PID=15 Archivo=tooshortC.exe:2 Tiene=c
+PID=10 Archivo=tooshortA.exe:2 Esperando=a Tiene=
+PID=11 Archivo=tooshortA.exe:2 Esperando=a Tiene=
+PID=12 Archivo=tooshortA.exe:2 Esperando=a Tiene=
+PID=14 Archivo=tooshortB.exe:2 Esperando=b Tiene=
+PID=16 Archivo=tooshortC.exe:2 Esperando=c Tiene=
++++++++
+j=0
+CPU=0 PID=9 I=@
+PID=11 Archivo=tooshortA.exe:2 Esperando=a Tiene=
+PID=12 Archivo=tooshortA.exe:2 Esperando=a Tiene=
+PID=14 Archivo=tooshortB.exe:2 Esperando=b Tiene=
+PID=16 Archivo=tooshortC.exe:2 Esperando=c Tiene=
+PID=13 Archivo=tooshortB.exe:2 Tiene=b
+PID=15 Archivo=tooshortC.exe:2 Tiene=c
+PID=10 Archivo=tooshortA.exe:2 Tiene=a
+--------
+j=1
+CPU=0 PID=13 I=@
+PID=11 Archivo=tooshortA.exe:2 Esperando=a Tiene=
+PID=12 Archivo=tooshortA.exe:2 Esperando=a Tiene=
+PID=16 Archivo=tooshortC.exe:2 Esperando=c Tiene=
+PID=15 Archivo=tooshortC.exe:2 Tiene=c
+PID=10 Archivo=tooshortA.exe:2 Tiene=a
+PID=14 Archivo=tooshortB.exe:2 Tiene=b
+--------
+j=2
+CPU=0 PID=15 I=@
+PID=11 Archivo=tooshortA.exe:2 Esperando=a Tiene=
+PID=12 Archivo=tooshortA.exe:2 Esperando=a Tiene=
+PID=10 Archivo=tooshortA.exe:2 Tiene=a
+PID=14 Archivo=tooshortB.exe:2 Tiene=b
+PID=16 Archivo=tooshortC.exe:2 Tiene=c
+--------
+j=3
+CPU=0 PID=10 I=@
+PID=12 Archivo=tooshortA.exe:2 Esperando=a Tiene=
+PID=14 Archivo=tooshortB.exe:2 Tiene=b
+PID=16 Archivo=tooshortC.exe:2 Tiene=c
+PID=11 Archivo=tooshortA.exe:2 Tiene=a
+--------
+j=4
+CPU=0 PID=14 I=@
+PID=12 Archivo=tooshortA.exe:2 Esperando=a Tiene=
+PID=16 Archivo=tooshortC.exe:2 Tiene=c
+PID=11 Archivo=tooshortA.exe:2 Tiene=a
+--------
+j=5
+CPU=0 PID=16 I=@
+PID=12 Archivo=tooshortA.exe:2 Esperando=a Tiene=
+PID=11 Archivo=tooshortA.exe:2 Tiene=a
+--------
+j=6
+CPU=0 PID=11 I=@
+PID=12 Archivo=tooshortA.exe:2 Tiene=a
+--------
+j=7
+CPU=0 PID=12 I=@
+--------
+j=8
+--------
+j=9
+--------
+Programas:
+030
+045
+060
+090
+120
+takeall.exe
+toolong.exe
+tooshortA.exe
+tooshortB.exe
+tooshortC.exe

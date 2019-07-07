@@ -1,0 +1,44 @@
+CASO 1: L=1, S=1
+
+CASO 1.1: basico
+La solucion optima toma 3 segundos:
+La vuelta 1 se hizo a velocidad 1
+
+CASO 1.2: imposible
+Es imposible completar la carrera
+
+
+CASO 2: L=1, S=2
+
+CASO 2.1: basico
+La solucion optima toma 2 segundos:
+La vuelta 1 se hizo a velocidad 2
+
+CASO 2.2: imposible
+Es imposible completar la carrera
+
+CASO 2.3: solo 1 posible velocidad
+La solucion optima toma 3 segundos:
+La vuelta 1 se hizo a velocidad 1
+
+CASO 3: L=2, S=2
+
+CASO 3.1: ir lento y no parar
+La solucion optima toma 4 segundos:
+La vuelta 1 se hizo a velocidad 1
+La vuelta 2 se hizo a velocidad 1
+
+CASOS DE LA LETRA
+
+CASO 1
+La solucion optima toma 127 segundos:
+La vuelta 1 se hizo a velocidad 7
+La vuelta 2 se hizo a velocidad 9
+La vuelta 3 se hizo a velocidad 9
+La vuelta 4 se hizo a velocidad 8, hizo stop
+La vuelta 5 se hizo a velocidad 8
+La vuelta 6 se hizo a velocidad 8
+La vuelta 7 se hizo a velocidad 8
+
+CASO 2
+Es imposible completar la carrera

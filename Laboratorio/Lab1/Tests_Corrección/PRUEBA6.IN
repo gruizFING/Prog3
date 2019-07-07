@@ -1,0 +1,18 @@
+EXPR expr1=(((x+y)*z+10)/((z-1)*x+y))+1+x
+EXPR expr2=(x+y)/2-z
+EVAL expr1
+EVAL expr2
+VAR x=2
+VAR y=3
+VAR z=4
+EVAL expr1
+EVAL expr2
+SAVE prueba6
+EXPR expr1=(x+y)*(z+x)
+EXPR expr2=x*y+(z+x)/y
+EVAL expr1
+EVAL expr2
+LOAD prueba6
+EVAL expr1
+EVAL expr2
+SALIR

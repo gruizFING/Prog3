@@ -1,0 +1,44 @@
+Procesos Bloqueados: 
+Procesos Listos: 
+PID=1 Archivo=programa1.exe:1 Tiene=
+
+CPU=0 PID=1 I=_
+CPU=0 PID=1 I=A
+Procesos Listos: 
+
+CPU=0 PID=1 I=!
+Procesos Listos: 
+PID=1 Archivo=programa1.exe:4 Tiene=a
+Procesos Listos: 
+PID=1 Archivo=programa1.exe:4 Tiene=a
+PID=2 Archivo=programa2.exe:1 Tiene=
+
+CPU=0 PID=1 I=a
+Procesos Bloqueados: 
+Procesos Listos: 
+PID=2 Archivo=programa2.exe:1 Tiene=
+
+CPU=0 PID=1 I=B
+CPU=0 PID=1 I=!
+Procesos Listos: 
+PID=2 Archivo=programa2.exe:1 Tiene=
+PID=1 Archivo=programa1.exe:7 Tiene=b
+
+CPU=0 PID=2 I=A
+CPU=0 PID=2 I=B
+Procesos Boloqueados: 
+PID=2 Archivo=programa2.exe:3 Esperando=b Tiene=a
+Procesos Listos: 
+PID=1 Archivo=programa1.exe:7 Tiene=b
+
+CPU=0 PID=1 I=_
+CPU=0 PID=1 I=@
+Procesos Listos: 
+PID=2 Archivo=programa2.exe:3 Tiene=a,b
+
+CPU=0 PID=2 I=C
+CPU=0 PID=2 I=_
+CPU=0 PID=2 I=a
+CPU=0 PID=2 I=!
+CPU=0 PID=2 I=c
+CPU=0 PID=2 I=@

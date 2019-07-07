@@ -1,0 +1,30 @@
+EXPR expr1=(x
+EXPR expr1=x
+EVAL expr1
+EVAL expr2
+EVAL 1/0
+VAR a=1
+VAR b=2
+VAR c=3
+VAR d=4
+VAR e=5
+VAR f=6
+VAR g=7
+VAR h=8
+VAR i=9
+VAR j=10
+VAR k=11
+EXPR expr2=x
+EXPR expr3=x
+EXPR expr4=x
+EXPR expr5=x
+EXPR expr6=x
+EXPR expr7=x
+EXPR expr8=x
+EXPR expr9=x
+EXPR expr10=x
+EXPR expr11=x
+OTROCOMANDO
+SAVE prueba3
+LOAD prueba3
+SALIR

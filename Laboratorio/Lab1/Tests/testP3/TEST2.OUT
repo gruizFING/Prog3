@@ -1,0 +1,74 @@
+Bienvenido a el mini-sistema:
+> Comando no reconocido.
+> Comando no reconocido.
+> Comando no reconocido.
+> OK. expr1 agregada.
+> OK. expr2 agregada.
+> Comando no reconocido.
+> ERROR: La expresion no es valida.
+> ERROR: La expresion no es valida.
+> Comando no reconocido.
+> OK. expr3 agregada.
+> OK. expr4 agregada.
+> Comando no reconocido.
+> OK. expr5 agregada.
+> OK. expr6 agregada.
+> Comando no reconocido.
+> ERROR: Nombre de expresion vacio.
+> ERROR: Nombre de expresion vacio.
+> ERROR: La expresion no es valida.
+> ERROR: La expresion no es valida.
+> ERROR: La expresion no es valida.
+> ERROR: La expresion no es valida.
+> ERROR: La expresion no es valida.
+> ERROR: La expresion no es valida.
+> ERROR: La expresion no es valida.
+> ERROR: La expresion no es valida.
+> ERROR: La expresion no es valida.
+> ERROR: La expresion no es valida.
+> Comando no reconocido.
+> OK. 12.00
+> OK. expr1 agregada.
+> OK. 0.00
+> OK. expr1 agregada.
+> ERROR: Division por cero.
+> OK. expr1 agregada.
+> OK. 15.00
+> Comando no reconocido.
+> OK. expr7 agregada.
+> OK. expr8 agregada.
+> Comando no reconocido.
+> OK. expr9 agregada.
+> OK. expr10 agregada.
+> Comando no reconocido.
+> ERROR: Se alcanzo la maxima cantidad de expresiones.
+> ERROR: Se alcanzo la maxima cantidad de expresiones.
+> ERROR: Se alcanzo la maxima cantidad de expresiones.
+> Comando no reconocido.
+> OK. X agregada.
+> OK. unaVariable agregada.
+> OK. otraVariable agregada.
+> OK. 33.00
+> OK. 55.00
+> OK. 0.00
+> ERROR: Falta definir variable o expresion.
+> OK. 17.49
+> OK. expr6 agregada.
+> OK. 33.53
+> OK. expr6 agregada.
+> OK. 62.26
+> OK. expr6 agregada.
+> OK. 32.47
+> OK. 15.00
+> OK. expr5 agregada.
+> OK. 0.53
+> OK. expr5 agregada.
+> OK. 12.00
+> OK. expr5 agregada.
+> OK. 64.00
+> OK. expr5 agregada.
+> OK. 0.00
+> OK. expr10 agregada.
+> OK. 33.00
+> ERROR: La expresion no es valida.
+> 

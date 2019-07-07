@@ -1,0 +1,233 @@
+CASO 1: L=1, S=1
+
+CASO 1.1: basico
+La solucion optima toma 3 segundos:
+La vuelta 1 se hizo a velocidad 1
+
+CASO 1.2: imposible
+Es imposible completar la carrera
+
+
+CASO 2: L=1, S=2
+
+CASO 2.1: basico
+La solucion optima toma 2 segundos:
+La vuelta 1 se hizo a velocidad 2
+
+CASO 2.2: imposible
+Es imposible completar la carrera
+
+CASO 2.3: solo 1 posible velocidad
+La solucion optima toma 3 segundos:
+La vuelta 1 se hizo a velocidad 1
+
+CASO 3: L=2, S=2
+
+CASO 3.1: ir lento y no parar
+La solucion optima toma 4 segundos:
+La vuelta 1 se hizo a velocidad 1
+La vuelta 2 se hizo a velocidad 1
+
+CASOS DE LA LETRA
+
+CASOS 1 de 1 a 12 vueltas.
+
+CASO 1 - 1 vueltas
+La solucion optima toma 15 segundos:
+La vuelta 1 se hizo a velocidad 9
+
+CASO 1 - 2 vueltas
+La solucion optima toma 30 segundos:
+La vuelta 1 se hizo a velocidad 9
+La vuelta 2 se hizo a velocidad 9
+
+CASO 1 - 3 vueltas
+La solucion optima toma 49 segundos:
+La vuelta 1 se hizo a velocidad 7
+La vuelta 2 se hizo a velocidad 9
+La vuelta 3 se hizo a velocidad 9
+
+CASO 1 - 4 vueltas
+La solucion optima toma 68 segundos:
+La vuelta 1 se hizo a velocidad 8
+La vuelta 2 se hizo a velocidad 8
+La vuelta 3 se hizo a velocidad 8
+La vuelta 4 se hizo a velocidad 8
+
+CASO 1 - 5 vueltas
+La solucion optima toma 89 segundos:
+La vuelta 1 se hizo a velocidad 7
+La vuelta 2 se hizo a velocidad 9
+La vuelta 3 se hizo a velocidad 9
+La vuelta 4 se hizo a velocidad 9, hizo stop
+La vuelta 5 se hizo a velocidad 9
+
+CASO 1 - 6 vueltas
+La solucion optima toma 108 segundos:
+La vuelta 1 se hizo a velocidad 7
+La vuelta 2 se hizo a velocidad 9
+La vuelta 3 se hizo a velocidad 9
+La vuelta 4 se hizo a velocidad 7, hizo stop
+La vuelta 5 se hizo a velocidad 9
+La vuelta 6 se hizo a velocidad 9
+
+CASO 1 - 7 vueltas
+La solucion optima toma 127 segundos:
+La vuelta 1 se hizo a velocidad 7
+La vuelta 2 se hizo a velocidad 9
+La vuelta 3 se hizo a velocidad 9
+La vuelta 4 se hizo a velocidad 8, hizo stop
+La vuelta 5 se hizo a velocidad 8
+La vuelta 6 se hizo a velocidad 8
+La vuelta 7 se hizo a velocidad 8
+
+CASO 1 - 8 vueltas
+La solucion optima toma 146 segundos:
+La vuelta 1 se hizo a velocidad 8
+La vuelta 2 se hizo a velocidad 8
+La vuelta 3 se hizo a velocidad 8
+La vuelta 4 se hizo a velocidad 8
+La vuelta 5 se hizo a velocidad 8, hizo stop
+La vuelta 6 se hizo a velocidad 8
+La vuelta 7 se hizo a velocidad 8
+La vuelta 8 se hizo a velocidad 8
+
+CASO 1 - 9 vueltas
+La solucion optima toma 167 segundos:
+La vuelta 1 se hizo a velocidad 7
+La vuelta 2 se hizo a velocidad 9
+La vuelta 3 se hizo a velocidad 9
+La vuelta 4 se hizo a velocidad 7, hizo stop
+La vuelta 5 se hizo a velocidad 9
+La vuelta 6 se hizo a velocidad 9
+La vuelta 7 se hizo a velocidad 7, hizo stop
+La vuelta 8 se hizo a velocidad 9
+La vuelta 9 se hizo a velocidad 9
+
+CASO 1 - 10 vueltas
+La solucion optima toma 186 segundos:
+La vuelta 1 se hizo a velocidad 7
+La vuelta 2 se hizo a velocidad 9
+La vuelta 3 se hizo a velocidad 9
+La vuelta 4 se hizo a velocidad 7, hizo stop
+La vuelta 5 se hizo a velocidad 9
+La vuelta 6 se hizo a velocidad 9
+La vuelta 7 se hizo a velocidad 8, hizo stop
+La vuelta 8 se hizo a velocidad 8
+La vuelta 9 se hizo a velocidad 8
+La vuelta 10 se hizo a velocidad 8
+
+CASO 1 - 11 vueltas
+La solucion optima toma 205 segundos:
+La vuelta 1 se hizo a velocidad 7
+La vuelta 2 se hizo a velocidad 9
+La vuelta 3 se hizo a velocidad 9
+La vuelta 4 se hizo a velocidad 8, hizo stop
+La vuelta 5 se hizo a velocidad 8
+La vuelta 6 se hizo a velocidad 8
+La vuelta 7 se hizo a velocidad 8
+La vuelta 8 se hizo a velocidad 8, hizo stop
+La vuelta 9 se hizo a velocidad 8
+La vuelta 10 se hizo a velocidad 8
+La vuelta 11 se hizo a velocidad 8
+
+CASO 1 - 12 vueltas
+La solucion optima toma 224 segundos:
+La vuelta 1 se hizo a velocidad 8
+La vuelta 2 se hizo a velocidad 8
+La vuelta 3 se hizo a velocidad 8
+La vuelta 4 se hizo a velocidad 8
+La vuelta 5 se hizo a velocidad 8, hizo stop
+La vuelta 6 se hizo a velocidad 8
+La vuelta 7 se hizo a velocidad 8
+La vuelta 8 se hizo a velocidad 8
+La vuelta 9 se hizo a velocidad 8, hizo stop
+La vuelta 10 se hizo a velocidad 8
+La vuelta 11 se hizo a velocidad 8
+La vuelta 12 se hizo a velocidad 8
+
+CASO 2
+Es imposible completar la carrera
+
+ OTRO CASO
+
+
+CASO 3 - 1 vueltas
+La solucion optima toma 73 segundos:
+La vuelta 1 se hizo a velocidad 7
+
+
+CASO 3 - 2 vueltas
+La solucion optima toma 178 segundos:
+La vuelta 1 se hizo a velocidad 2
+La vuelta 2 se hizo a velocidad 5
+
+
+CASO 3 - 3 vueltas
+La solucion optima toma 280 segundos:
+La vuelta 1 se hizo a velocidad 2
+La vuelta 2 se hizo a velocidad 3
+La vuelta 3 se hizo a velocidad 3
+
+
+CASO 3 - 4 vueltas
+La solucion optima toma 393 segundos:
+La vuelta 1 se hizo a velocidad 2
+La vuelta 2 se hizo a velocidad 3
+La vuelta 3 se hizo a velocidad 3
+La vuelta 4 se hizo a velocidad 7, hizo stop
+
+
+CASO 3 - 5 vueltas
+La solucion optima toma 498 segundos:
+La vuelta 1 se hizo a velocidad 2
+La vuelta 2 se hizo a velocidad 3
+La vuelta 3 se hizo a velocidad 3
+La vuelta 4 se hizo a velocidad 2, hizo stop
+La vuelta 5 se hizo a velocidad 5
+
+
+CASO 3 - 6 vueltas
+La solucion optima toma 600 segundos:
+La vuelta 1 se hizo a velocidad 2
+La vuelta 2 se hizo a velocidad 3
+La vuelta 3 se hizo a velocidad 3
+La vuelta 4 se hizo a velocidad 2, hizo stop
+La vuelta 5 se hizo a velocidad 3
+La vuelta 6 se hizo a velocidad 3
+
+
+CASO 3 - 7 vueltas
+La solucion optima toma 713 segundos:
+La vuelta 1 se hizo a velocidad 2
+La vuelta 2 se hizo a velocidad 3
+La vuelta 3 se hizo a velocidad 3
+La vuelta 4 se hizo a velocidad 2, hizo stop
+La vuelta 5 se hizo a velocidad 3
+La vuelta 6 se hizo a velocidad 3
+La vuelta 7 se hizo a velocidad 7, hizo stop
+
+
+CASO 3 - 8 vueltas
+La solucion optima toma 818 segundos:
+La vuelta 1 se hizo a velocidad 2
+La vuelta 2 se hizo a velocidad 3
+La vuelta 3 se hizo a velocidad 3
+La vuelta 4 se hizo a velocidad 2, hizo stop
+La vuelta 5 se hizo a velocidad 3
+La vuelta 6 se hizo a velocidad 3
+La vuelta 7 se hizo a velocidad 2, hizo stop
+La vuelta 8 se hizo a velocidad 5
+
+
+CASO 3 - 9 vueltas
+La solucion optima toma 920 segundos:
+La vuelta 1 se hizo a velocidad 2
+La vuelta 2 se hizo a velocidad 3
+La vuelta 3 se hizo a velocidad 3
+La vuelta 4 se hizo a velocidad 2, hizo stop
+La vuelta 5 se hizo a velocidad 3
+La vuelta 6 se hizo a velocidad 3
+La vuelta 7 se hizo a velocidad 2, hizo stop
+La vuelta 8 se hizo a velocidad 3
+La vuelta 9 se hizo a velocidad 3

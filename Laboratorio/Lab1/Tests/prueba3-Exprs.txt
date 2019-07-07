@@ -1,0 +1,10 @@
+<def exp="expr1"><expr tipo="VAR">x</expr></def>
+<def exp="expr2"><expr tipo="VAR">x</expr></def>
+<def exp="expr3"><expr tipo="VAR">x</expr></def>
+<def exp="expr4"><expr tipo="VAR">x</expr></def>
+<def exp="expr5"><expr tipo="VAR">x</expr></def>
+<def exp="expr6"><expr tipo="VAR">x</expr></def>
+<def exp="expr7"><expr tipo="VAR">x</expr></def>
+<def exp="expr8"><expr tipo="VAR">x</expr></def>
+<def exp="expr9"><expr tipo="VAR">x</expr></def>
+<def exp="expr10"><expr tipo="VAR">x</expr></def>

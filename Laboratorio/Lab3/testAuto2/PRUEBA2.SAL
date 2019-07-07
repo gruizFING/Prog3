@@ -1,0 +1,121 @@
+Red Infelicidad:
+
+Maquina 0:
+Estado: Vigilada
+Conexiones:
+   Maq. 2
+   Maq. 3
+   Maq. 10
+   Maq. 12
+   Maq. 14
+
+Maquina 1:
+Estado: No vigilada
+Conexiones:
+   Maq. 3
+   Maq. 4
+
+Maquina 2:
+Estado: Vigilada
+Conexiones:
+   Maq. 0
+   Maq. 5
+   Maq. 7
+
+Maquina 3:
+Estado: Vigilada
+Conexiones:
+   Maq. 0
+   Maq. 1
+   Maq. 5
+
+Maquina 4:
+Estado: No vigilada
+Conexiones:
+   Maq. 1
+   Maq. 6
+
+Maquina 5:
+Estado: Vigilada
+Conexiones:
+   Maq. 2
+   Maq. 3
+   Maq. 6
+   Maq. 8
+
+Maquina 6:
+Estado: No vigilada
+Conexiones:
+   Maq. 4
+   Maq. 5
+
+Maquina 7:
+Estado: No vigilada
+Conexiones:
+   Maq. 2
+   Maq. 8
+
+Maquina 8:
+Estado: Vigilada
+Conexiones:
+   Maq. 5
+   Maq. 7
+
+Maquina 9:
+Estado: No vigilada
+Conexiones:
+   Maq. 10
+
+Maquina 10:
+Estado: Vigilada
+Conexiones:
+   Maq. 0
+   Maq. 9
+   Maq. 11
+
+Maquina 11:
+Estado: No vigilada
+Conexiones:
+   Maq. 10
+
+Maquina 12:
+Estado: Vigilada
+Conexiones:
+   Maq. 0
+
+Maquina 13:
+Estado: No vigilada
+Conexiones:
+   Maq. 14
+
+Maquina 14:
+Estado: Vigilada
+Conexiones:
+   Maq. 0
+   Maq. 13
+
+La maquina central es: 0
+
+La ruta mas corta a la central desde una no vigilada y su tiempo son:
+Tiempo: 2
+maquina: 11
+maquina: 10
+maquina: 0
+
+Recorrido de la felicidad:
+
+Cariniosito: Dani Umpi, maquina: 0
+Cariniosito: Frodo, maquina: 2
+Cariniosito: J.S Bach, maquina: 10
+Cariniosito: Deicide, maquina: 14
+Cariniosito: Diego Forlan, maquina: 3
+Cariniosito: Jenna Jameson (esta es cariniosa en serio), maquina: 12
+Cariniosito: Dios, maquina: 7
+Cariniosito: alguno del INCO, maquina: 5
+Cariniosito: Queca Gada, maquina: 11
+Cariniosito: Che QueVara, maquina: 9
+Cariniosito: LUIS XIV, maquina: 13
+Cariniosito: Terminator, maquina: 1
+Cariniosito: Wanda Nara, maquina: 8
+Cariniosito: Akinator, maquina: 6
+Cariniosito: Gandalf, maquina: 4

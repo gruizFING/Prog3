@@ -1,0 +1,112 @@
+                   **********************************************
+                   *      PRUEBAS SOBRE MAQUINA CENTRAL         *
+                   **********************************************
+
+
+Prueba maquina central 1:
+
+Creando red de 8000000 nodos...OK.
+
+Uniendo maquinas...OK.
+
+Buscando maquina central...OK.
+                              La maquina central es la 1
+
+Destruyendo red...OK.
+
+Prueba maquina central 2:
+
+Creando red de 1000000 nodos...OK
+
+Uniendo maquinas...OK.
+
+Buscando maquina central...OK.
+                              La maquina central es la 0
+
+Destruyendo red...OK.
+
+
+
+Prueba maquina central 3:
+
+Creando red de 7 nodos...OK.
+
+Uniendo maquinas...OK.
+
+Buscando maquina central...OK.
+                              La maquina central es la 5
+
+Destruyendo red...OK.
+
+
+                   **********************************************
+                   *      PRUEBAS SOBRE CAMINO MAS CORTO        *
+                   **********************************************
+
+
+Prueba camino mas corto 1:
+
+Creando red con 25 nodos...OK.
+
+Uniendo maquinas...OK.
+
+Buscando maquina central...OK.
+
+                              La maquina central es: 20
+
+
+Vigilando maquinas...OK.
+
+La ruta mas corta hacia la central desde una maquina no vigilada es:
+
+                                        (Buscando ruta mas corta...)
+
+1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 8 -> 12 -> 15 -> 20
+
+
+OK.
+
+Prueba camino mas corto 2:
+
+
+
+Prueba sobre la red con 1000000 nodos creada mas arriba
+
+                                        (Buscando ruta mas corta...)
+
+1 -> 0
+
+
+OK.
+
+
+                   **********************************************
+                   *     PRUEBAS SOBRE CARINIOSOS EN ACCION     *
+                   **********************************************
+
+
+en punto 20  queda cariniosito "Alfa" 
+en punto 15  queda cariniosito "Beta" 
+en punto 19  queda cariniosito "Gamma" 
+en punto 16  queda cariniosito "Delta" 
+en punto 22  queda cariniosito "Epsilon" 
+en punto 21  queda cariniosito "Kappa" 
+en punto 14  queda cariniosito "Iota" 
+en punto 12  queda cariniosito "Pi" 
+en punto 18  queda cariniosito "Rho" 
+en punto 17  queda cariniosito "Phi" 
+en punto 3  queda cariniosito "Psi" 
+en punto 1  queda cariniosito "Omega" 
+en punto 13  queda cariniosito "Ypsilon" 
+en punto 11  queda cariniosito "Marcelo se la come" 
+en punto 8  queda cariniosito "Chuck" 
+en punto 6  queda cariniosito "Otra vez epsilon" 
+en punto 4  queda cariniosito "Epsilon capo" 
+en punto 2  queda cariniosito "Sabelo que epsilon es grande" 
+en punto 0  queda cariniosito "Marcelo se la come doblada" 
+en punto 23  queda cariniosito "Epsilon grande!" 
+en punto 9  queda cariniosito "Signo de exclamacion(!)" 
+en punto 10  queda cariniosito "Signo de pregunta (?)" 
+en punto 7  queda cariniosito "Signo de menos(-)" 
+en punto 5  queda cariniosito "Signo de mas (+)" 
+en punto 24  queda cariniosito "BANANERO ACM1PT" 

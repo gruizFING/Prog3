@@ -1,0 +1,9 @@
+VAR a = 3
+VAR b = 5
+VAR c = 40
+EVAL c
+EVAL b
+EVAL a
+EVAL 1+1
+EVAL 3+a*5
+SALIR

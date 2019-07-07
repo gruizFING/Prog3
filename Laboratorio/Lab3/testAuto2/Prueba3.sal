@@ -1,0 +1,92 @@
+PRUEBA 1.1
+
+Maquina central:5
+3 -> 5
+4 -> 5
+0 -> 1 -> 3 -> 5
+en punto 5  queda cariniosito "Alegrosita" 
+en punto 4  queda cariniosito "Amigosito" 
+en punto 3  queda cariniosito "Amorosita" 
+en punto 7  queda cariniosito "Tiernosito" 
+en punto 6  queda cariniosito "Cumpleañosito" 
+en punto 2  queda cariniosito "Deseosito" 
+en punto 1  queda cariniosito "Gruniosito" 
+en punto 0  queda cariniosito "Divertosito" 
+en punto 5  queda cariniosito "Juanrisitas" 
+en punto 4  queda cariniosito "Tuliosita" 
+en punto 3  queda cariniosito "Makamosito" 
+en punto 7  queda cariniosito "Panda Guille" 
+en punto 6  queda cariniosito "Migueloso" 
+en punto 2  queda cariniosito "Man-Liderosito" 
+en punto 1  queda cariniosito "Camposito" 
+en punto 0  queda cariniosito "Nicosito" 
+en punto 7  queda cariniosito "Juanrisitas" 
+en punto 5  queda cariniosito "Tuliosita" 
+en punto 4  queda cariniosito "Makamosito" 
+en punto 3  queda cariniosito "Panda Guille" 
+en punto 6  queda cariniosito "Migueloso" 
+en punto 2  queda cariniosito "Man-Liderosito" 
+en punto 1  queda cariniosito "Camposito" 
+en punto 0  queda cariniosito "Nicosito" 
+en punto 0  queda cariniosito "Juanrisitas" 
+en punto 2  queda cariniosito "Tuliosita" 
+en punto 1  queda cariniosito "Makamosito" 
+en punto 4  queda cariniosito "Panda Guille" 
+en punto 3  queda cariniosito "Migueloso" 
+en punto 5  queda cariniosito "Man-Liderosito" 
+en punto 7  queda cariniosito "Camposito" 
+en punto 6  queda cariniosito "Nicosito" 
+PRUEBA 1.2
+
+Maquina central:3
+en punto 3  queda cariniosito "Alegrosita" 
+en punto 2  queda cariniosito "Amigosito" 
+en punto 1  queda cariniosito "Amorosita" 
+en punto 4  queda cariniosito "Tiernosito" 
+en punto 5  queda cariniosito "Cumpleañosito" 
+en punto 0  queda cariniosito "Deseosito" 
+en punto 6  queda cariniosito "Gruniosito" 
+la maquina central no esta vigilada, yupi!! 
+la maquina central no esta vigilada, yupi!! 
+0 -> 2 -> 3
+0 -> 2 -> 3
+1 -> 3
+6 -> 5 -> 3
+todas las maquinas estan vigiladas, snif... 
+en punto 3  queda cariniosito "Alegrosita" 
+en punto 2  queda cariniosito "Amigosito" 
+en punto 1  queda cariniosito "Amorosita" 
+en punto 4  queda cariniosito "Tiernosito" 
+en punto 5  queda cariniosito "Cumpleañosito" 
+en punto 0  queda cariniosito "Deseosito" 
+en punto 6  queda cariniosito "Gruniosito" 
+Maquina central:3
+Maquina central:3
+Maquina central:3
+Maquina central:3
+Maquina central:3
+Maquina central:3
+Maquina central:3
+Maquina central:3
+Maquina central:3
+Maquina central:3
+Maquina central:3
+Maquina central:3
+Maquina central:3
+en punto 3  queda cariniosito "Alegrosita" 
+en punto 2  queda cariniosito "Amigosito" 
+en punto 1  queda cariniosito "Amorosita" 
+en punto 4  queda cariniosito "Tiernosito" 
+en punto 5  queda cariniosito "Cumpleañosito" 
+en punto 0  queda cariniosito "Deseosito" 
+en punto 6  queda cariniosito "Gruniosito" 
+todas las maquinas estan vigiladas, snif... 
+todas las maquinas estan vigiladas, snif... 
+todas las maquinas estan vigiladas, snif... 
+en punto 2  queda cariniosito "Alegrosita" 
+en punto 0  queda cariniosito "Amigosito" 
+en punto 3  queda cariniosito "Amorosita" 
+en punto 1  queda cariniosito "Tiernosito" 
+en punto 4  queda cariniosito "Cumpleañosito" 
+en punto 5  queda cariniosito "Deseosito" 
+en punto 6  queda cariniosito "Gruniosito" 

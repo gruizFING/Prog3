@@ -1,0 +1,121 @@
+-TEST DE GUARDAR Y CARGAR-
+persistir y recuperar vacio.
+SAVE vacio
+LOAD vacio
+ingreso variables
+VAR var1= 333
+VAR var2  = 333
+VAR    var3= 888
+VAR var4   = 888
+VAR var5=99
+VAR var6  = 88
+VAR var7 =78
+persisto y agrego mas variables
+SAVE soloVariables
+VAR var8= 3
+VAR var9  =98
+VAR var10 = 99
+SAVE diccVarLleno
+recupero y evaluo si marcha todo ok
+LOAD soloVariables
+EVAL var8
+EVAL var9
+EVAL var10
+EVAL var1
+EVAL var2
+EVAL var7
+prueba abrir un diccionario lleno
+LOAD diccVarLleno
+EVAL var8
+EVAL var9
+EVAL var10
+EVAL var1
+EVAL var2
+EVAL var7
+voy a probar un comando invalido que tenga justito tamaño 256 y que ademas tenga muchas palabras::::::::::  :::::::::::::::::::voy a probar un comando invalido que tenga justito tamaño 256 y que ademas tenga muchas palabras:::::::::::: ::::::::::::::::: :
+VAR var11= 45
+EVAL 31
+EVAL 10*10+2
+empiezo a probar con las expresiones y las variables combinadas
+EXPR expr1= 12
+EXPR    expr2   =   0.53
+EXPR expr3=var1+var2
+EXPR expr4  =  X
+SAVE varyexpr
+EXPR expr5 = expr1
+EXPR expr6=expr4*expr2
+EXPR expr7= var1+var2*var3
+EXPR expr8= (9/var3)*(var2/var1)
+EXPR expr9= (X)
+EXPR expr10  = (expr7)
+SAVE dicc'sLlenos
+VAR var1=0
+EVAL expr1
+EVAL expr3
+EVAL expr4
+EVAL expr5
+EVAL expr7
+EVAL expr8
+LOAD varyexpr
+EVAL expr5
+EVAL expr8
+EVAL expr10
+EVAL expr1
+EVAL expr2
+EVAL var1
+EVAL var10
+LOAD dicc'sLlenos
+EVAL var1
+VAR var1=25
+EVAL var1
+EVAL var2
+EVAL var3
+EVAL var4
+EVAL var5
+EVAL var6
+EVAL var7
+EVAL var8
+EVAL var9
+EVAL var10
+EVAL expr1
+EVAL expr2
+EVAL expr3
+EVAL expr4
+EVAL expr5
+EVAL expr6
+EVAL expr7
+EVAL expr8
+EVAL expr9
+EVAL expr10
+EVAL 9/888
+EVAL 333/25
+EVAL 9/var3
+EVAL var2/var1
+EVAL (9/var3)*(var2/var1)
+EVAL var1/var10
+EVAL var1-var10
+EVAL var4-var2
+EVAL var4/var1
+EVAL var7-var6
+EVAL var7-var5
+LOAD vacio
+EXPR expr1= 12
+EXPR    expr2   =   0.53
+EXPR expr3=var1+var2
+EXPR expr4  =  X
+SAVE soloexpr
+EVAL expr1
+EVAL expr2
+EVAL expr3
+EVAL expr4
+LOAD vacio
+EVAL expr1
+EVAL expr2
+EVAL expr3
+EVAL expr4
+LOAD soloexpr
+EVAL expr1
+EVAL expr2
+EVAL expr3
+EVAL expr4
+SALIR

@@ -1,0 +1,189 @@
+VAR =
+VAR                                           =
+VAR                                                        =1
+VAR                                                              =         13
+EXPR =
+EXPR                                         =
+EXPR                                                   =        1
+EXPR                                             =       variable1+variable2
+EXPR                       expr1        =           variable1/variable2
+EVAL expr1
+EVAL expr1/90
+EVAL expr1+variable1
+VAR                         variable1               =               60
+VAR                                  variable2               =             30
+EVAL                                expr1
+EVAL                                                 expr1/90
+EVAL                                                        expr1+variable1
+EVAL         variable2-variable1
+VAR          variable3
+VAR          variable3 = 70
+SAVE                                                guardarsub0
+VAR          variable3             =           75
+VAR          variable3                               =80
+VAR          variable4             =             70
+VAR          variable5                  =          60
+VAR               variable6                =      80
+VAR         variable7           =      56
+VAR                 variable7                     =        40
+VAR           variable8            =      0
+VAR                            variable9          =     700
+VAR              variable10    = 68
+VAR =
+VAR          =
+VAR              =
+VAR      variable11       = 400
+VAR variable10 = 1000
+VAR variable9 = 2000
+EVAL             variable10
+EVAL             variable9
+EVAL             variable1+variable2+variable3
+EVAL             variable1+variable2+variable3/variable8
+EXPR
+EXPR =
+EXPR     =   variable1+variable2
+EXPR     expr2            =             900
+EXPR               expr3       =            90000
+EXPR expr4=((((((((variable1*variable1*variable1*variable2*variable2*variable3)/variable6)/variable1)/variable1)/variable1)/variable1)/variable1)/variable1)
+EVAL expr4
+EVAL expr3
+EVAL expr2
+EVAL expr5
+SAVE        guardar0
+EXPR              expr5        =     variable10
+EXPR                     expr6       = (variable10+variable9)/variable8
+EXPR expr7 = ((((variable1*variable2)*variable3)*variable4)/variable5)/variable10
+EXPR expr8 = ((((variable1/variable2)/variable3)/variable4)/variable5)/variable6
+EXPR expr9 = variable1
+EXPR expr10 = variable8
+EVAL expr7
+EVAL expr8
+EVAL expr9
+EVAL expr10
+EVAL expr7-expr8
+EVAL expr8-expr10
+EVAL ((((expr3-expr1)/expr4)*expr7)/10)*variable1
+EVAL ((((expr8-expr10)/expr9)*expr3)/90)*variable1
+EVAL expr10*expr6
+SAVE                        guardar1
+LOAD                 guardar1
+SAVE                       guardar2
+LOAD                 guardar2
+SAVE                       guardar3
+LOAD                 guardar3
+SAVE                       guardar4
+SAVE                       guardar4
+SAVE                       guardar4
+SAVE                       guardar4
+SAVE                       guardar4
+SAVE                       guardar4
+SAVE                       guardar4
+SAVE                       guardar4
+SAVE                       guardar4
+LOAD                       guardar4
+LOAD                       guardar4
+LOAD                       guardar4
+LOAD                       guardar4
+LOAD                       guardar4
+LOAD                       guardar4
+LOAD                       guardar4
+EVAL                 expr7
+EVAL                       expr8
+EVAL                 expr9
+EVAL expr10
+EVAL expr7-expr8
+EVAL expr8-expr10
+EVAL ((((expr3-expr1)/expr4)*expr7)/10)*variable1
+EVAL ((((expr8-expr10)/expr9)*expr3)/90)*variable1
+EVAL expr10*expr6
+EVAL                    expr10*expr6
+EVAL ((((((expr4*expr4)/expr4)/expr4)*expr4)*expr5)*expr1)
+LOAD                                  guardarsub0
+EVAL                                expr1
+EVAL                                                 expr1/90
+EVAL                                                        expr1+variable1
+EVAL         variable2-variable1
+EVAL variable3
+SAVE guardar5
+LOAD guardar0
+EVAL expr4
+EVAL expr3
+EVAL expr2
+EVAL expr5
+LOAD guardar4
+EVAL expr5
+EVAL expr4
+EVAL ((((expr3-expr1)/expr4)*expr7)/10)*variable1
+EVAL ((((expr8-expr10)/expr9)*expr3)/90)*variable1
+LOAD guardarsub0
+LOAD guardar0
+LOAD guardar1
+LOAD                 guardar2
+LOAD                 guardar3
+LOAD                 guardar4
+LOAD guardarsub0
+LOAD guardar0
+LOAD guardar1
+LOAD                 guardar2
+LOAD                 guardar3
+LOAD                 guardar4
+LOAD guardarsub0
+LOAD guardar0
+LOAD guardar1
+LOAD                 guardar2
+LOAD                 guardar3
+LOAD                 guardar4
+LOAD guardarsub0
+LOAD guardar0
+LOAD guardar1
+LOAD                 guardar2
+LOAD                 guardar3
+LOAD                 guardar4
+LOAD guardarsub0
+LOAD guardar0
+LOAD guardar1
+LOAD                 guardar2
+LOAD                 guardar3
+LOAD                 guardar4
+LOAD guardarsub0
+LOAD guardar0
+LOAD guardar1
+LOAD                 guardar2
+LOAD                 guardar3
+LOAD                 guardar4
+LOAD guardarsub0
+LOAD guardar0
+LOAD guardar1
+LOAD                 guardar2
+LOAD                 guardar3
+LOAD                 guardar4
+LOAD guardarsub0
+LOAD guardar0
+LOAD guardar1
+LOAD                 guardar2
+LOAD                 guardar3
+LOAD                 guardar4
+EVAL variable1
+EVAL variable2
+EVAL variable3
+EVAL variable4
+EVAL variable5
+EVAL variable6
+EVAL variable7
+EVAL variable8
+EVAL variable9
+EVAL variable10
+EVAL expr1
+EVAL expr2
+EVAL expr3
+EVAL expr4
+EVAL expr5
+EVAL expr6
+EVAL expr7
+EVAL expr8
+EVAL expr9
+EVAL expr10
+LOAD guardarsub0
+VAR sitefuncoesporqueandasbien = 10
+EVAL sitefuncoesporqueandasbien
+SALIR

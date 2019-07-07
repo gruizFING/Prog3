@@ -1,0 +1,8 @@
+<def exp="Lanzilotta"><expr tipo="SUMA"><expr tipo="VAR">GeorgeClooney</expr><expr tipo="VAR">Joven</expr></expr></def>
+<def exp="E1"><expr tipo="DIV"><expr tipo="SUMA"><expr tipo="SUMA"><expr tipo="VAR">X</expr><expr tipo="VAR">Y</expr></expr><expr tipo="VAR">Z</expr></expr><expr tipo="MULT"><expr tipo="VAR">W</expr><expr tipo="VAR">A</expr></expr></expr></def>
+<def exp="E2"><expr tipo="MULT"><expr tipo="VAR">E1</expr><expr tipo="VAR">Lanzilotta</expr></expr></def>
+<def exp="E3"><expr tipo="MULT"><expr tipo="SUMA"><expr tipo="VAR">E2</expr><expr tipo="VAR">E1</expr></expr><expr tipo="VAR">Lanzilotta</expr></expr></def>
+<def exp="E4"><expr tipo="MULT"><expr tipo="MULT"><expr tipo="VAR">E3</expr><expr tipo="VAR">E2</expr></expr><expr tipo="VAR">E1</expr></expr></def>
+<def exp="E5"><expr tipo="DIV"><expr tipo="MULT"><expr tipo="SUMA"><expr tipo="VAR">E4</expr><expr tipo="VAR">E1</expr></expr><expr tipo="DIV"><expr tipo="VAR">E3</expr><expr tipo="VAR">E2</expr></expr></expr><expr tipo="VAR">E1</expr></expr></def>
+<def exp="ME_HAGO_EL_CANUTO_Y_EN_LA_SIGUIENTE_EXPRESION_PONGO_MI_CANAL_DE_YOUTUBE"><expr tipo="VAL">128.000000</expr></def>
+<def exp="http://www.youtube.com/MemphisDrums"><expr tipo="VAL">8.000000</expr></def>

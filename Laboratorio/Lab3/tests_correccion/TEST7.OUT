@@ -1,0 +1,38 @@
+TEST 7.1
+Maquina central:6
+la maquina central no esta vigilada, yupi!! 
+en punto 6  queda cariniosito "Alegrosita" 
+en punto 7  queda cariniosito "Amigosito" 
+en punto 0  queda cariniosito "Amorosita" 
+en punto 9  queda cariniosito "Tiernosito" 
+en punto 5  queda cariniosito "Cumpleañosito" 
+en punto 4  queda cariniosito "Deseosito" 
+en punto 8  queda cariniosito "Gruniosito" 
+en punto 2  queda cariniosito "Divertosito" 
+en punto 1  queda cariniosito "Sueniosito" 
+en punto 3  queda cariniosito "Suertosito" 
+TEST 7.2
+7 -> 6
+2 -> 0 -> 6
+en punto 6  queda cariniosito "Caballo corazon noble" 
+en punto 7  queda cariniosito "Cerdita corazon goloso" 
+en punto 0  queda cariniosito "Coneja corazon veloz" 
+en punto 9  queda cariniosito "Elefanta corazon enorme" 
+en punto 5  queda cariniosito "Gata corazon orgulloso" 
+en punto 4  queda cariniosito "Leon corazon valiente" 
+en punto 8  queda cariniosito "Mapache corazon luminoso" 
+en punto 2  queda cariniosito "Mono corazon travieso" 
+en punto 1  queda cariniosito "Oveja corazon gentil" 
+en punto 3  queda cariniosito "Perro corazon leal" 
+TEST 7.3
+1 -> 9 -> 6
+en punto 6  queda cariniosito "Juanrisitas" 
+en punto 7  queda cariniosito "Tuliosita" 
+en punto 0  queda cariniosito "Makamosito" 
+en punto 9  queda cariniosito "Panda Guille" 
+en punto 5  queda cariniosito "Migueloso" 
+en punto 4  queda cariniosito "Man-Liderosito" 
+en punto 8  queda cariniosito "Camposito" 
+en punto 2  queda cariniosito "Nicosito" 
+en punto 1  queda cariniosito "Rodosito" 
+en punto 3  queda cariniosito "Clauosita" 

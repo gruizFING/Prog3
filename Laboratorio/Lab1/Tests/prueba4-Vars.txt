@@ -1,0 +1,10 @@
+<def var="X">10.000000</def>
+<def var="Y">20.000000</def>
+<def var="YUDJ">0.000000</def>
+<def var="YRJ">88.000000</def>
+<def var="sdaj">42.000000</def>
+<def var="yudj">46.000000</def>
+<def var="i">77.000000</def>
+<def var="x">273.000000</def>
+<def var="y">98192.000000</def>
+<def var="g">666.000000</def>

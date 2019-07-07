@@ -1,0 +1,73 @@
+TEST DE EXPRESIONES
+In gre so -- to do -- ti po -- de -- ex pre sio nes --
+ExpresionesConstantes:
+EXPR expr1= 12
+EXPR    expr2   =   0.53
+Expresiones con varios errores:
+EXPR =(*)
+EXPR =  ()
+ExpresionesQueSonNombreDeVariables    :
+EXPR expr3=unaVariable+otraVariable
+EXPR expr4  =  X
+Expresiones_Que son Nombre_de Otras Expresiones:   :
+EXPR expr5 = expr1
+EXPR expr6=expr4*expr2
+Expresiones invalidas:
+EXPR =1000
+EXPR  =   29
+EXPR novalida1= (3*4+5
+EXPR novalida2= 2*
+EXPR novalida3=3+
+EXPR novalida4=   4/
+EXPR novalida5  = 5-
+EXPR novalida6    =6*+
+EXPR novalida7 =  7-*
+EXPR novalida8 = 8/+10
+EXPR novalida9= 9+21*
+EXPR novalida10=*10+22.01
+Cambio del valor de la expresion:
+EVAL expr1
+EXPR expr1 = 0; 
+EVAL expr1
+EXPR expr1= (9/0)
+EVAL expr1
+EXPR expr1= 15
+EVAL expr1
+Expresiones que son expre OPER expre :::
+EXPR expr7= X+Y*Z
+EXPR expr8= (9/Y)*(Z/X)
+Expresiones que son ( expr ) ->
+EXPR expr9= (X)
+EXPR expr10  = (expr7)
+Intento agregar con el diccionario lleno
+EXPR diccLleno1= (unaVariable)
+EXPR diccLleno2= 12
+EXPR diccLleno3= (expr5/expr6)
+Cambio el valor de Expresiones ya existentes:::
+VAR X=33
+VAR unaVariable = 55
+VAR otraVariable=0
+EVAL X
+EVAL unaVariable
+EVAL otraVariable
+EVAL x
+EVAL expr6
+EXPR expr6 = expr4+expr2
+EVAL expr6
+EXPR expr6 = expr4/expr2
+EVAL expr6
+EXPR expr6 = expr4-expr2
+EVAL expr6
+EVAL expr5
+EXPR expr5= expr2
+EVAL expr5
+EXPR expr5= 12
+EVAL expr5
+EXPR expr5=(3*3)+unaVariable
+EVAL expr5
+EXPR expr5=otraVariable/6
+EVAL expr5
+EXPR expr10 = (X)
+EVAL expr10
+EXPR =  (2*)
+SALIR

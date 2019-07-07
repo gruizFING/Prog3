@@ -1,0 +1,77 @@
+Red Infelicidad:
+
+Maquina 0:
+Estado: No vigilada
+Conexiones:
+   Maq. 1
+
+Maquina 1:
+Estado: Vigilada
+Conexiones:
+   Maq. 0
+   Maq. 2
+   Maq. 4
+
+Maquina 2:
+Estado: Vigilada
+Conexiones:
+   Maq. 1
+   Maq. 3
+
+Maquina 3:
+Estado: Vigilada
+Conexiones:
+   Maq. 2
+   Maq. 4
+
+Maquina 4:
+Estado: Vigilada
+Conexiones:
+   Maq. 1
+   Maq. 3
+   Maq. 5
+   Maq. 7
+
+Maquina 5:
+Estado: Vigilada
+Conexiones:
+   Maq. 4
+   Maq. 6
+
+Maquina 6:
+Estado: No vigilada
+Conexiones:
+   Maq. 5
+
+Maquina 7:
+Estado: Vigilada
+Conexiones:
+   Maq. 4
+   Maq. 8
+
+Maquina 8:
+Estado: No vigilada
+Conexiones:
+   Maq. 7
+
+La maquina central es: 4
+
+La ruta mas corta a la central desde una no vigilada y su tiempo son:
+Tiempo: 4
+maquina: 0
+maquina: 1
+maquina: 2
+maquina: 3
+maquina: 4
+
+Recorrido de la felicidad:
+
+Cariniosito: Batman, maquina: 4
+Cariniosito: Harry Potter, maquina: 3
+Cariniosito: Pocahontas, maquina: 7
+Cariniosito: Asterix, maquina: 5
+Cariniosito: Satanas, maquina: 1
+Cariniosito: Astor Piazzola, maquina: 2
+Cariniosito: Beethoven, maquina: 8
+Cariniosito: Superman, maquina: 6
+Cariniosito: SLAYERRRR, maquina: 0

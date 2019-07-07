@@ -1,0 +1,10 @@
+<def var="variable1">60.000000</def>
+<def var="variable2">30.000000</def>
+<def var="variable3">80.000000</def>
+<def var="variable4">70.000000</def>
+<def var="variable5">60.000000</def>
+<def var="variable6">80.000000</def>
+<def var="variable7">40.000000</def>
+<def var="variable8">0.000000</def>
+<def var="variable9">2000.000000</def>
+<def var="variable10">1000.000000</def>

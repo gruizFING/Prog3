@@ -1,0 +1,46 @@
+TEST DE VARIABLES
+InicializoLasVariablesProbandoConMuchosExpacios
+VAR =12
+VAR    =0.3
+VAR   =    2.0
+VAR var1= 333
+VAR var2   = 1000
+VAR    var3=78
+VAR var4   =9
+VAR var5=99
+VAR var6  = 88
+VAR var7 =78
+--Cambio el valor de la var2 evaluando antes y despues del cambio--
+EVAL var2
+VAR var2=333
+EVAL var2
+con nombre vacio 
+VAR =89
+VAR      =     99
+VAR   =77
+VAR var8= 3
+VAR var9  =98
+VAR var10 = 0000.58
+VAR var11 = 48
+EVAL var9
+VAR var9 =789
+VAR var8 = 12.0091
+EVAL var8
+ProbandoEvaluar Expresiones
+EVAL var9
+EVAL var1
+EVAL var6
+EVAL var3
+con nombre vacio y diccionario lleno
+VAR =89
+VAR      =     99
+VAR   =77
+simbolos raros "#$%45
+EVAL var10
+EVAL var2
+EVAL var4
+EVAL var8
+EVAL var5
+EVAL var7
+Cambio el valor muchas veces y hago eval...
+SALIR

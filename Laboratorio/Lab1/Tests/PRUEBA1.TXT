@@ -1,0 +1,13 @@
+EXPR expr1=(x+y)*z
+VAR x=2
+VAR y=3
+VAR z=4
+EVAL expr1
+SAVE prueba1
+VAR x=5
+VAR y=6
+VAR z=7
+EVAL expr1
+LOAD prueba1
+EVAL expr1
+SALIR

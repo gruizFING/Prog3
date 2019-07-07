@@ -1,0 +1,31 @@
+Bienvenido a el mini-sistema:
+> ERROR: La expresion no es valida.
+> OK. expr1 agregada.
+> ERROR: Falta definir variable o expresion.
+> ERROR: Falta definir variable o expresion.
+> ERROR: Division por cero.
+> OK. a agregada.
+> OK. b agregada.
+> OK. c agregada.
+> OK. d agregada.
+> OK. e agregada.
+> OK. f agregada.
+> OK. g agregada.
+> OK. h agregada.
+> OK. i agregada.
+> OK. j agregada.
+> ERROR: Se alcanzo la maxima cantidad de variables.
+> OK. expr2 agregada.
+> OK. expr3 agregada.
+> OK. expr4 agregada.
+> OK. expr5 agregada.
+> OK. expr6 agregada.
+> OK. expr7 agregada.
+> OK. expr8 agregada.
+> OK. expr9 agregada.
+> OK. expr10 agregada.
+> ERROR: Se alcanzo la maxima cantidad de expresiones.
+> Comando no reconocido.
+> OK. Datos guardados.
+> OK. Datos cargados.
+> 

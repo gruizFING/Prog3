@@ -1,0 +1,3 @@
+<def var="variable1">60.000000</def>
+<def var="variable2">30.000000</def>
+<def var="variable3">70.000000</def>

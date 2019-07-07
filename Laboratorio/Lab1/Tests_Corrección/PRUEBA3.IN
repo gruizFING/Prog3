@@ -1,0 +1,5 @@
+VAR x = 3
+EVAL x*6/2-5+1
+EVAL (x+1)*(x-1)
+EVAL (x+1)/(x-1)
+SALIR

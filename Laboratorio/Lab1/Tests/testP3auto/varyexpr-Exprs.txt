@@ -1,0 +1,4 @@
+<def exp="expr1"><expr tipo="VAL">12.000000</expr></def>
+<def exp="expr2"><expr tipo="VAL">0.530000</expr></def>
+<def exp="expr3"><expr tipo="SUMA"><expr tipo="VAR">var1</expr><expr tipo="VAR">var2</expr></expr></def>
+<def exp="expr4"><expr tipo="VAR">X</expr></def>
